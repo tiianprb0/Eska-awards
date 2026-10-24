@@ -1,0 +1,552 @@
+{
+  "base": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/",
+  "note": "Ganti {{USER}} dan {{REPO}} setelah repo dibuat.",
+  "total": 105,
+  "categories": {
+    "Best Performance": [
+      {
+        "file": "Best Performance_Alwardah.png",
+        "path": "Eska Awards/Best Performance/Best Performance_Alwardah.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_Alwardah.png"
+      },
+      {
+        "file": "Best Performance_Artina.png",
+        "path": "Eska Awards/Best Performance/Best Performance_Artina.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_Artina.png"
+      },
+      {
+        "file": "Best Performance_Chilsia.png",
+        "path": "Eska Awards/Best Performance/Best Performance_Chilsia.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_Chilsia.png"
+      },
+      {
+        "file": "Best Performance_EH_Muhammad Dani.png",
+        "path": "Eska Awards/Best Performance/Best Performance_EH_Muhammad Dani.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_EH_Muhammad%20Dani.png"
+      },
+      {
+        "file": "Best Performance_Freddy.png",
+        "path": "Eska Awards/Best Performance/Best Performance_Freddy.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_Freddy.png"
+      },
+      {
+        "file": "Best Performance_GEHS_Rohim.png",
+        "path": "Eska Awards/Best Performance/Best Performance_GEHS_Rohim.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_GEHS_Rohim.png"
+      },
+      {
+        "file": "Best Performance_GPS_Nandha.png",
+        "path": "Eska Awards/Best Performance/Best Performance_GPS_Nandha.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_GPS_Nandha.png"
+      },
+      {
+        "file": "Best Performance_Junianti.png",
+        "path": "Eska Awards/Best Performance/Best Performance_Junianti.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_Junianti.png"
+      },
+      {
+        "file": "Best Performance_Lailatul.png",
+        "path": "Eska Awards/Best Performance/Best Performance_Lailatul.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_Lailatul.png"
+      },
+      {
+        "file": "Best Performance_Neni.png",
+        "path": "Eska Awards/Best Performance/Best Performance_Neni.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_Neni.png"
+      },
+      {
+        "file": "Best Performance_Nurul Faradilah.png",
+        "path": "Eska Awards/Best Performance/Best Performance_Nurul Faradilah.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Best%20Performance/Best%20Performance_Nurul%20Faradilah.png"
+      }
+    ],
+    "Cooperative": [
+      {
+        "file": "Cooperative_Amri.png",
+        "path": "Eska Awards/Cooperative/Cooperative_Amri.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_Amri.png"
+      },
+      {
+        "file": "Cooperative_EH_Rufhi.png",
+        "path": "Eska Awards/Cooperative/Cooperative_EH_Rufhi.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_EH_Rufhi.png"
+      },
+      {
+        "file": "Cooperative_GEHS_Yulia.png",
+        "path": "Eska Awards/Cooperative/Cooperative_GEHS_Yulia.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_GEHS_Yulia.png"
+      },
+      {
+        "file": "Cooperative_GPS_Nandha.png",
+        "path": "Eska Awards/Cooperative/Cooperative_GPS_Nandha.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_GPS_Nandha.png"
+      },
+      {
+        "file": "Cooperative_Maryani.png",
+        "path": "Eska Awards/Cooperative/Cooperative_Maryani.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_Maryani.png"
+      },
+      {
+        "file": "Cooperative_Office_Try Elcy.png",
+        "path": "Eska Awards/Cooperative/Cooperative_Office_Try Elcy.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_Office_Try%20Elcy.png"
+      },
+      {
+        "file": "Cooperative_Polman.png",
+        "path": "Eska Awards/Cooperative/Cooperative_Polman.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_Polman.png"
+      },
+      {
+        "file": "Cooperative_Rahmawani.png",
+        "path": "Eska Awards/Cooperative/Cooperative_Rahmawani.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_Rahmawani.png"
+      },
+      {
+        "file": "Cooperative_Syahrani.png",
+        "path": "Eska Awards/Cooperative/Cooperative_Syahrani.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_Syahrani.png"
+      },
+      {
+        "file": "Cooperative_Tanty.png",
+        "path": "Eska Awards/Cooperative/Cooperative_Tanty.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_Tanty.png"
+      },
+      {
+        "file": "Cooperative_Wilda.png",
+        "path": "Eska Awards/Cooperative/Cooperative_Wilda.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_Wilda.png"
+      },
+      {
+        "file": "Cooperative_Yuni.png",
+        "path": "Eska Awards/Cooperative/Cooperative_Yuni.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Cooperative/Cooperative_Yuni.png"
+      }
+    ],
+    "Customer's Royalty": [
+      {
+        "file": "Customer's Royalty_Chatarina.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_Chatarina.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_Chatarina.png"
+      },
+      {
+        "file": "Customer's Royalty_Chilsia.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_Chilsia.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_Chilsia.png"
+      },
+      {
+        "file": "Customer's Royalty_Dadang.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_Dadang.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_Dadang.png"
+      },
+      {
+        "file": "Customer's Royalty_EH_Kartika Br Tampubolon.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_EH_Kartika Br Tampubolon.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_EH_Kartika%20Br%20Tampubolon.png"
+      },
+      {
+        "file": "Customer's Royalty_Erina.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_Erina.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_Erina.png"
+      },
+      {
+        "file": "Customer's Royalty_GEHS_Dipo.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_GEHS_Dipo.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_GEHS_Dipo.png"
+      },
+      {
+        "file": "Customer's Royalty_GPS_Ely.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_GPS_Ely.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_GPS_Ely.png"
+      },
+      {
+        "file": "Customer's Royalty_Linawati.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_Linawati.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_Linawati.png"
+      },
+      {
+        "file": "Customer's Royalty_Sania.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_Sania.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_Sania.png"
+      },
+      {
+        "file": "Customer's Royalty_Tamarina.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_Tamarina.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_Tamarina.png"
+      },
+      {
+        "file": "Customer's Royalty_Yuliana.png",
+        "path": "Eska Awards/Customer's Royalty/Customer's Royalty_Yuliana.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Customer%27s%20Royalty/Customer%27s%20Royalty_Yuliana.png"
+      }
+    ],
+    "Dedication": [
+      {
+        "file": "Dedication_10 Years_EH_Slamet Jayanto.png",
+        "path": "Eska Awards/Dedication/Dedication_10 Years_EH_Slamet Jayanto.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Dedication/Dedication_10%20Years_EH_Slamet%20Jayanto.png"
+      },
+      {
+        "file": "Dedication_10 Years_EH_Suharyadi.png",
+        "path": "Eska Awards/Dedication/Dedication_10 Years_EH_Suharyadi.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Dedication/Dedication_10%20Years_EH_Suharyadi.png"
+      },
+      {
+        "file": "Dedication_15 Years_Derlen Kei.png",
+        "path": "Eska Awards/Dedication/Dedication_15 Years_Derlen Kei.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Dedication/Dedication_15%20Years_Derlen%20Kei.png"
+      },
+      {
+        "file": "Dedication_15 Years_Office_Merry Zheng.png",
+        "path": "Eska Awards/Dedication/Dedication_15 Years_Office_Merry Zheng.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Dedication/Dedication_15%20Years_Office_Merry%20Zheng.png"
+      },
+      {
+        "file": "Dedication_5 Years_EH_Cahyo Yulianto Saputro.png",
+        "path": "Eska Awards/Dedication/Dedication_5 Years_EH_Cahyo Yulianto Saputro.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Dedication/Dedication_5%20Years_EH_Cahyo%20Yulianto%20Saputro.png"
+      },
+      {
+        "file": "Dedication_5 Years_EH_Isak Rizky Beriman Tamba.png",
+        "path": "Eska Awards/Dedication/Dedication_5 Years_EH_Isak Rizky Beriman Tamba.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Dedication/Dedication_5%20Years_EH_Isak%20Rizky%20Beriman%20Tamba.png"
+      },
+      {
+        "file": "Dedication_5 Years_Office_Christian John Benaya.png",
+        "path": "Eska Awards/Dedication/Dedication_5 Years_Office_Christian John Benaya.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Dedication/Dedication_5%20Years_Office_Christian%20John%20Benaya.png"
+      },
+      {
+        "file": "Dedication_5 Years_Office_Flavia Ayu Helena Agustya.png",
+        "path": "Eska Awards/Dedication/Dedication_5 Years_Office_Flavia Ayu Helena Agustya.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Dedication/Dedication_5%20Years_Office_Flavia%20Ayu%20Helena%20Agustya.png"
+      },
+      {
+        "file": "Dedication_5 Years_Suci Wulandari.png",
+        "path": "Eska Awards/Dedication/Dedication_5 Years_Suci Wulandari.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Dedication/Dedication_5%20Years_Suci%20Wulandari.png"
+      }
+    ],
+    "Enthusiasm & Spirit": [
+      {
+        "file": "Enthusiasm & Spirit_EH_Agustinus Jumanto.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_EH_Agustinus Jumanto.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_EH_Agustinus%20Jumanto.png"
+      },
+      {
+        "file": "Enthusiasm & Spirit_Eka Fitriyani.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_Eka Fitriyani.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_Eka%20Fitriyani.png"
+      },
+      {
+        "file": "Enthusiasm & Spirit_Eva Suharni.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_Eva Suharni.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_Eva%20Suharni.png"
+      },
+      {
+        "file": "Enthusiasm & Spirit_GEHS_Ryana.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_GEHS_Ryana.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_GEHS_Ryana.png"
+      },
+      {
+        "file": "Enthusiasm & Spirit_GPS_Robet.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_GPS_Robet.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_GPS_Robet.png"
+      },
+      {
+        "file": "Enthusiasm & Spirit_Lailatul.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_Lailatul.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_Lailatul.png"
+      },
+      {
+        "file": "Enthusiasm & Spirit_Nora.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_Nora.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_Nora.png"
+      },
+      {
+        "file": "Enthusiasm & Spirit_Novianti.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_Novianti.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_Novianti.png"
+      },
+      {
+        "file": "Enthusiasm & Spirit_Sumiati.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_Sumiati.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_Sumiati.png"
+      },
+      {
+        "file": "Enthusiasm & Spirit_Yuliana.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_Yuliana.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_Yuliana.png"
+      },
+      {
+        "file": "Enthusiasm & Spirit_Zechary.png",
+        "path": "Eska Awards/Enthusiasm & Spirit/Enthusiasm & Spirit_Zechary.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Enthusiasm%20%26%20Spirit/Enthusiasm%20%26%20Spirit_Zechary.png"
+      }
+    ],
+    "Most Favorite Staff": [
+      {
+        "file": "Most Favorite Staff_Artina.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_Artina.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_Artina.png"
+      },
+      {
+        "file": "Most Favorite Staff_Bunga.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_Bunga.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_Bunga.png"
+      },
+      {
+        "file": "Most Favorite Staff_EH_Isak RIzky.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_EH_Isak RIzky.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_EH_Isak%20RIzky.png"
+      },
+      {
+        "file": "Most Favorite Staff_GEHS_Deka.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_GEHS_Deka.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_GEHS_Deka.png"
+      },
+      {
+        "file": "Most Favorite Staff_GPS_Aditya.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_GPS_Aditya.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_GPS_Aditya.png"
+      },
+      {
+        "file": "Most Favorite Staff_Lailatul.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_Lailatul.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_Lailatul.png"
+      },
+      {
+        "file": "Most Favorite Staff_Lena.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_Lena.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_Lena.png"
+      },
+      {
+        "file": "Most Favorite Staff_Linawati.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_Linawati.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_Linawati.png"
+      },
+      {
+        "file": "Most Favorite Staff_Neni.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_Neni.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_Neni.png"
+      },
+      {
+        "file": "Most Favorite Staff_Nurfiah.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_Nurfiah.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_Nurfiah.png"
+      },
+      {
+        "file": "Most Favorite Staff_Risky.png",
+        "path": "Eska Awards/Most Favorite Staff/Most Favorite Staff_Risky.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Favorite%20Staff/Most%20Favorite%20Staff_Risky.png"
+      }
+    ],
+    "Most Motivated Staff": [
+      {
+        "file": "Most Motivated Staff_Artina.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_Artina.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_Artina.png"
+      },
+      {
+        "file": "Most Motivated Staff_EH_Sulistyono.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_EH_Sulistyono.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_EH_Sulistyono.png"
+      },
+      {
+        "file": "Most Motivated Staff_GEHS_David.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_GEHS_David.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_GEHS_David.png"
+      },
+      {
+        "file": "Most Motivated Staff_GPS_Fendi.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_GPS_Fendi.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_GPS_Fendi.png"
+      },
+      {
+        "file": "Most Motivated Staff_Lailatul.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_Lailatul.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_Lailatul.png"
+      },
+      {
+        "file": "Most Motivated Staff_Lena.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_Lena.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_Lena.png"
+      },
+      {
+        "file": "Most Motivated Staff_Mey.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_Mey.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_Mey.png"
+      },
+      {
+        "file": "Most Motivated Staff_Paryati.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_Paryati.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_Paryati.png"
+      },
+      {
+        "file": "Most Motivated Staff_Srifien.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_Srifien.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_Srifien.png"
+      },
+      {
+        "file": "Most Motivated Staff_Supardi.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_Supardi.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_Supardi.png"
+      },
+      {
+        "file": "Most Motivated Staff_Tanty Indah.png",
+        "path": "Eska Awards/Most Motivated Staff/Most Motivated Staff_Tanty Indah.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Most%20Motivated%20Staff/Most%20Motivated%20Staff_Tanty%20Indah.png"
+      }
+    ],
+    "Newcomer Award": [
+      {
+        "file": "Newcomer Award_EH_Jhon Rendy.png",
+        "path": "Eska Awards/Newcomer Award/Newcomer Award_EH_Jhon Rendy.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Newcomer%20Award/Newcomer%20Award_EH_Jhon%20Rendy.png"
+      },
+      {
+        "file": "Newcomer Award_Eva.png",
+        "path": "Eska Awards/Newcomer Award/Newcomer Award_Eva.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Newcomer%20Award/Newcomer%20Award_Eva.png"
+      },
+      {
+        "file": "Newcomer Award_GEHS_Yudi.png",
+        "path": "Eska Awards/Newcomer Award/Newcomer Award_GEHS_Yudi.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Newcomer%20Award/Newcomer%20Award_GEHS_Yudi.png"
+      },
+      {
+        "file": "Newcomer Award_GPS_Kordi.png",
+        "path": "Eska Awards/Newcomer Award/Newcomer Award_GPS_Kordi.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Newcomer%20Award/Newcomer%20Award_GPS_Kordi.png"
+      },
+      {
+        "file": "Newcomer Award_Halmas.png",
+        "path": "Eska Awards/Newcomer Award/Newcomer Award_Halmas.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Newcomer%20Award/Newcomer%20Award_Halmas.png"
+      },
+      {
+        "file": "Newcomer Award_Office_Putri Eliza.png",
+        "path": "Eska Awards/Newcomer Award/Newcomer Award_Office_Putri Eliza.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Newcomer%20Award/Newcomer%20Award_Office_Putri%20Eliza.png"
+      },
+      {
+        "file": "Newcomer Award_Selvi.png",
+        "path": "Eska Awards/Newcomer Award/Newcomer Award_Selvi.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Newcomer%20Award/Newcomer%20Award_Selvi.png"
+      },
+      {
+        "file": "Newcomer Award_Susiani.png",
+        "path": "Eska Awards/Newcomer Award/Newcomer Award_Susiani.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Newcomer%20Award/Newcomer%20Award_Susiani.png"
+      }
+    ],
+    "Perfect Attendance": [
+      {
+        "file": "Perfect Attendance_Chilsia.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_Chilsia.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_Chilsia.png"
+      },
+      {
+        "file": "Perfect Attendance_Derlen.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_Derlen.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_Derlen.png"
+      },
+      {
+        "file": "Perfect Attendance_EH_I Made Januaryadhi.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_EH_I Made Januaryadhi.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_EH_I%20Made%20Januaryadhi.png"
+      },
+      {
+        "file": "Perfect Attendance_Eka.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_Eka.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_Eka.png"
+      },
+      {
+        "file": "Perfect Attendance_GEHS_Desmerry.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_GEHS_Desmerry.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_GEHS_Desmerry.png"
+      },
+      {
+        "file": "Perfect Attendance_GPS_Budiman.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_GPS_Budiman.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_GPS_Budiman.png"
+      },
+      {
+        "file": "Perfect Attendance_Neni.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_Neni.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_Neni.png"
+      },
+      {
+        "file": "Perfect Attendance_Sania.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_Sania.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_Sania.png"
+      },
+      {
+        "file": "Perfect Attendance_Siska.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_Siska.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_Siska.png"
+      },
+      {
+        "file": "Perfect Attendance_Sumiati.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_Sumiati.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_Sumiati.png"
+      },
+      {
+        "file": "Perfect Attendance_Yuliana.png",
+        "path": "Eska Awards/Perfect Attendance/Perfect Attendance_Yuliana.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/Perfect%20Attendance/Perfect%20Attendance_Yuliana.png"
+      }
+    ],
+    "TOP 10 Academy": [
+      {
+        "file": "TOP 10 Academy_Eka Fitriyani.png",
+        "path": "Eska Awards/TOP 10 Academy/TOP 10 Academy_Eka Fitriyani.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/TOP%2010%20Academy/TOP%2010%20Academy_Eka%20Fitriyani.png"
+      },
+      {
+        "file": "TOP 10 Academy_Erika Gea.png",
+        "path": "Eska Awards/TOP 10 Academy/TOP 10 Academy_Erika Gea.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/TOP%2010%20Academy/TOP%2010%20Academy_Erika%20Gea.png"
+      },
+      {
+        "file": "TOP 10 Academy_Freddy Sahat.png",
+        "path": "Eska Awards/TOP 10 Academy/TOP 10 Academy_Freddy Sahat.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/TOP%2010%20Academy/TOP%2010%20Academy_Freddy%20Sahat.png"
+      },
+      {
+        "file": "TOP 10 Academy_Manara.png",
+        "path": "Eska Awards/TOP 10 Academy/TOP 10 Academy_Manara.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/TOP%2010%20Academy/TOP%2010%20Academy_Manara.png"
+      },
+      {
+        "file": "TOP 10 Academy_Mekar Sriyanti.png",
+        "path": "Eska Awards/TOP 10 Academy/TOP 10 Academy_Mekar Sriyanti.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/TOP%2010%20Academy/TOP%2010%20Academy_Mekar%20Sriyanti.png"
+      },
+      {
+        "file": "TOP 10 Academy_Muhammad Amri.png",
+        "path": "Eska Awards/TOP 10 Academy/TOP 10 Academy_Muhammad Amri.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/TOP%2010%20Academy/TOP%2010%20Academy_Muhammad%20Amri.png"
+      },
+      {
+        "file": "TOP 10 Academy_Muhammad Yuda.png",
+        "path": "Eska Awards/TOP 10 Academy/TOP 10 Academy_Muhammad Yuda.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/TOP%2010%20Academy/TOP%2010%20Academy_Muhammad%20Yuda.png"
+      },
+      {
+        "file": "TOP 10 Academy_Paryati.png",
+        "path": "Eska Awards/TOP 10 Academy/TOP 10 Academy_Paryati.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/TOP%2010%20Academy/TOP%2010%20Academy_Paryati.png"
+      },
+      {
+        "file": "TOP 10 Academy_Riswandi.png",
+        "path": "Eska Awards/TOP 10 Academy/TOP 10 Academy_Riswandi.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/TOP%2010%20Academy/TOP%2010%20Academy_Riswandi.png"
+      },
+      {
+        "file": "TOP 10 Academy_Rizky Polman.png",
+        "path": "Eska Awards/TOP 10 Academy/TOP 10 Academy_Rizky Polman.png",
+        "url": "https://cdn.jsdelivr.net/gh/{{USER}}/{{REPO}}@main/Eska%20Awards/TOP%2010%20Academy/TOP%2010%20Academy_Rizky%20Polman.png"
+      }
+    ]
+  }
+}
